@@ -42,10 +42,3 @@ This MATLAB-based toolkit integrates **spike merging, spike+LFP analysis, and vi
 - [Chronux toolbox](http://chronux.org/)  
 
 After installing dependencies, u can use this toolkit.
-
-
-% Spike + LFP 分析示例
-demo_analysis
-
-% 结果可视化示例
-demo_viewer
