@@ -29,9 +29,11 @@ This MATLAB-based toolkit integrates **spike merging, spike+LFP analysis, and vi
 
 ### 3. `neuroViewer`
 - Visualization of analysis results
--example:
+-gui:
 <img width="1349" height="671" alt="1755316716558" src="https://github.com/user-attachments/assets/543daea2-f48e-4caf-876e-95f1154058ca" />
-![neuroviewer](https://github.com/user-attachments/assets/0336f46d-ee3d-474d-81d1-1cec6241ad37)
+
+-example results:
+![neuroviewer](https://github.com/user-attachments/assets/6e58494d-525b-4ff8-b65d-6ef1d9362ebb)
 
 
 ## Requirements
